@@ -5,7 +5,10 @@
 1. **Port scanner without Nmap(portScanner.py)**
 
 - python port scanner that performs port scanning without using the python Nmap module.
-- **Consists**: - Accepts a target IP address or hostname - Allows users to specify a port range - Identifies accessible open ports
+- **Consists**:
+- Accepts a target IP address or hostname
+- Allows users to specify a port range
+- Identifies accessible open ports
 - **To run**: python portScanner.py
 
 2. **Port scanner using Nmap (portScannerNmap.py)**
